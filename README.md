@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mitaligondaliya
 - 👀 I’m interested in iOS development using swift and swiftUI
-- 🌱 I’m currently learning SwiftUI
+- 🌱 I’m currently working on SwiftUI
 - 💞️ I’m looking to collaborate on Swift
 - 📫 Reach me on gondaliyamitali19@gmail.com
 
